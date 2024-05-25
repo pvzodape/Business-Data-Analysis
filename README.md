@@ -3,4 +3,4 @@ This project focuses on finding insights from raw business data to help the busi
 
 
 
-![Project Workflow](https://github.com/pvzodape/Business-Data-Analysis-/blob/main/Project%20Workflow.png)
+![Project Workflow](https://github.com/pvzodape/Business-Data-Analysis/blob/main/Projectworkflow.png)
